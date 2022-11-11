@@ -16,7 +16,7 @@ async function main(payload) {
         sampleRateHertz: 16000,
         languageCode: 'en-US',
         speechContexts: [{
-            "phrases": ["Pink Brown Orange Yellow Blue Green Red"]
+            "phrases": ["pink brown orange yellow blue green red"]
         }]
     };
 
