@@ -9,6 +9,7 @@ async function main(payload) {
     const audio = {
         content: payload.audio
     };
+    console.log(`payload.audio: ${payload.audio}`)
 
     const config = {
         encoding: 'LINEAR16',
